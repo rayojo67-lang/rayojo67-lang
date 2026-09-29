@@ -5,14 +5,14 @@
 <h3 align="left">Languages:</h3>
 
 # Languages
-- 
+- React.js
 
 # Nicknames:
 
 c0rnelius
 
 # Status:
-active :)
+learning react
 
 
 Thank you rahuldkjain.github.io
